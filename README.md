@@ -5,7 +5,7 @@ Welcome to Dapplink! This user manual will guide you through the process of usin
 ![image](https://github.com/shivanshu814/User-Manual/assets/97324405/0f9f2824-5925-492f-870d-f029f83668fe)
 
 **1. Accessing Dapplink:**
-   - Visit our website at [https://bridge.dapplink.xyz/bridge](https://bridge.dapplink.xyz/bridge) to access the Dapplink platform.
+   - Visit our website at [https://bridge.testnet.dapplink.xyz/bridge](https://bridge.testnet.dapplink.xyz/bridge) to access the Dapplink platform.
 
 **2. Connecting Your Wallet:**
   - Click on the "Connect Wallet" button on the homepage or within the platform.
