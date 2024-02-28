@@ -1,4 +1,4 @@
-**Dapplink Bridge and Staking Protocol User Manual**
+# Dapplink Bridge and Staking Protocol User Manual**
 
 Welcome to Dapplink! This user manual will guide you through the process of using the Dapplink Bridge for cross-chain interoperability and staking protocol on our Layer 3 network. By following these steps, you'll be able to seamlessly bridge assets between different blockchain platforms and participate in staking activities.
 
